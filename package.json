@@ -1,0 +1,28 @@
+{
+  "name": "image-background-remover",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "canvas": "^2.11.2",
+    "lucide-react": "^0.445.0",
+    "next": "14.2.13",
+    "next-transpile-modules": "^10.0.1",
+    "nock": "^13.5.5",
+    "postcss-loader": "^8.1.1",
+    "react": "^18",
+    "react-compare-image": "^3.4.0",
+    "react-dom": "^18",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.12"
+  }
+}
